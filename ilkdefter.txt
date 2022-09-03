@@ -1,5 +1,9 @@
-ilk değişiklik yapıldı
+ak değişiklik yapıldı
 değişiklik yapıldı
 
 
 git status da bu değişiklik gözükür çünkü bu dosyayı .gitignore içine eklemedik
+
+
+
+dosya üzerinde işlemler yapıldı 
