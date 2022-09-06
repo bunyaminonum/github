@@ -7,3 +7,6 @@ git status da bu değişiklik gözükür çünkü bu dosyayı .gitignore içine 
 
 
 dosya üzerinde işlemler yapıldı 
+
+
+dosya üzerinde birdaha işlem yapıldı
